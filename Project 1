@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "TECH DYNASTY ready for deployment"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/tech-dynasty.git
+git push -u origin main
